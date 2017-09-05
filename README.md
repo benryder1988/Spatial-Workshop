@@ -8,6 +8,9 @@
 **Data:** We will make the data available for download on the tutorial’s website.
  
 **Software:**
+
 --code: python (pysal, stats, maybe scikit-learn) and Jupiter Notebook.
+
 --visualization: QGIS or cartoDB.
+
 Participants will be required to have the packages/tools pre-installed. We will send the final requirements as soon as we know them.
