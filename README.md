@@ -4,7 +4,7 @@
 
 **Goal:** Familiarize participants with the challenges of working with geo-referenced multi-modal data (governmental data, open data, social media, etc.). Build first visualizations and prediction models.
 
-**Theory:** First, we will talk about the definition of spatial data science, the specifics of map data, and some methods for spatial models. You can find the up-to-date slides on that here: https://docs.google.com/presentation/d/1vwp5UEjcq_lo1AJwxqcwB4Qk4Xnhzo01WqsM0-t8rkA/edit?usp=sharing
+**Theory:** First, we will talk about the definition of spatial data science, the specifics of map data, and some methods for spatial models. You can find the up-to-date slides on that here: https://drive.google.com/file/d/1kK_5mjoxdnpvX5mWQc1d8sQeCd3Amb9V/view?usp=sharing
 
 **Application:** Then, we will go through a hands-on session to answer a real-world problem, for which we have prepared data and code for you. All materials are available in this git repository. 
 
